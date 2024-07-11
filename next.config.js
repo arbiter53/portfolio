@@ -3,7 +3,7 @@
 */
 
 const nextConfig = {
-  basePath: "/portfolio" : "",
+  basePath: "/portfolio",
 }
 
 module.exports = nextConfig
