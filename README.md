@@ -2,11 +2,6 @@
 <!-- Table of Contents -->
 <details>
 
-<summary>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-</summary>
 
 - [Folder Structure](#bangbang-folder-structure)
 - [Getting Started](#toolbox-getting-started)
