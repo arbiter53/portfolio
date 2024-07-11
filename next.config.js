@@ -1,10 +1,10 @@
 /** 
 * @type {import('next').NextConfig} 
 */
-const isProd = proccess.env.NODE.ENV = ‘development‘;
+const isProd = proccess.env.NODE.ENV = "development";
 
 const nextConfig = {
-  basePath: ‘/portfolio/‘ : ‘‘,
+  basePath: "/portfolio" : "",
 }
 
 module.exports = nextConfig
